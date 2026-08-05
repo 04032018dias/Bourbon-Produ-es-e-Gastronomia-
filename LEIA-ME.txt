@@ -1,0 +1,14 @@
+BOURBON GESTÃO V38.2 — PROMOTERS SIMPLIFICADOS
+
+A aba Promoters permite:
+- adicionar promoter;
+- informar nome, WhatsApp e Instagram opcional;
+- deixar ativo ou inativo;
+- editar os dados;
+- pausar e reativar;
+- excluir;
+- acompanhar a quantidade de ingressos vendidos e o valor total vendido.
+
+Não há campo de chave Pix nem comissão.
+
+Envie todos os arquivos para o mesmo repositório do GitHub. O Netlify atualizará automaticamente.
